@@ -2,6 +2,9 @@ source 'https://rubygems.org'
 # Geocoder
 gem 'geocoder'
 
+# Google Maps 4 rails
+gem 'gmaps4rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
 # Use sqlite3 as the database for Active Record
