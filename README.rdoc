@@ -13,3 +13,16 @@ $ bundle update
 
 // PURPOSE
 This is an extremely simple scaffold app that I created to experiment with geolocation capabilities with rails gems.
+
+wow
+fine
+okay
+woow
+owowow
+
+
+wowow
+wow
+wow
+wowp
+wo
